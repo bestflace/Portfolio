@@ -149,28 +149,29 @@ const projects: Project[] = [
 ];
 
 const contactLinks: ContactItem[] = [
-  { label: "Email", value: "your-email@gmail.com", type: "icon", Icon: Mail },
+  { label: "Email", value: "chivincv005@gmail.com", type: "icon", Icon: Mail },
   {
     label: "GitHub",
-    value: "Add GitHub link here",
+    value: "https://github.com/bestflace",
     type: "text",
     initials: "GH",
   },
   {
     label: "LinkedIn",
-    value: "Add LinkedIn link here",
+    value:
+      "https://www.linkedin.com/in/nguy%E1%BB%85n-ch%C3%AD-v%C4%A9-90152b408/",
     type: "text",
     initials: "in",
   },
   {
     label: "Facebook",
-    value: "Add Facebook link here",
+    value: "https://www.facebook.com/BestFlace1002",
     type: "text",
     initials: "f",
   },
   {
     label: "Instagram",
-    value: "Add Instagram link here",
+    value: "https://www.instagram.com/louisfm_pisces/",
     type: "text",
     initials: "IG",
   },
